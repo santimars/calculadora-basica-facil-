@@ -20,4 +20,4 @@ elif resultado==3:
 elif  resultado==4:
     n=num1/num2
      
-print("gracias por resolverlo")
+print("espero que estes contento")
