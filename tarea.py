@@ -23,3 +23,6 @@ elif  resultado==4:
 print("espero que estes contento") #despido 
 
 print("saliendo del programa")
+def santi():
+    print (Gracias por vernos)
+santi()
