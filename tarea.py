@@ -20,4 +20,6 @@ elif resultado==3:
 elif  resultado==4:
     n=num1/num2
      
-print("espero que estes contento")
+print("espero que estes contento") #despido 
+
+print("saliendo del programa")
